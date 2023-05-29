@@ -31,9 +31,9 @@ comments : false
 
 # Internal nav
 nav:
-  - GALLERY: "/ua-photorama/gallery/"  
-  - JOURNAL: "/ua-photorama/journal/"
-  - ABOUT: "/ua-photorama/about/"
+  - GALLERY: "/gallery/"  
+  - JOURNAL: "/journal/"
+  - ABOUT: "/about/"
 
 # All translation keys
 translations:
